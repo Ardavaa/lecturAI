@@ -22,7 +22,7 @@ LecturAI takes the chaos out of studying by letting you upload raw content—lik
 
 ---
 
-## 🧠 Key Features (In Vibe)
+## 🧠 Key Features
 
 ### 📝 1. Automated Note-Taking  
 Drop in a lecture or a link and get structured notes that are easy on the eyes and brain. Think:
